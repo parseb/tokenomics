@@ -1,6 +1,10 @@
 # tokenomics
 tokenomics resource list | seed club | random
 
+[Token Economy Book](https://github.com/parseb/TokenEconomyBook)
+
+--
+[Tokenization Explained](https://cointelegraph.com/explained/tokenization-explained)
 
 [What is a token? Token-economy 101](https://medium.com/alphawallet/what-is-a-token-token-economy-101-29593afa13d2)
 
